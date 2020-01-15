@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Excel
+comment1.params=x\ y\ player
+comment1.target=Excel(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getImage()
+comment3.params=board\ curr
+comment3.target=java.util.ArrayList\ captureFreeMoves(Piece[][],\ Position)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=void\ changeDirection()
+comment6.params=
+comment6.target=void\ changeCaptureDirection()
+comment7.params=
+comment7.target=int\ getDirection()
+numComments=8
